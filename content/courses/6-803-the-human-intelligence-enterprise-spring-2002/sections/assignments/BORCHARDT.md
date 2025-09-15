@@ -4,6 +4,7 @@ course_id: 6-803-the-human-intelligence-enterprise-spring-2002
 description: ''
 file: null
 file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2002/30c11075d8da8b05629c74dbff34d59a_BORCHARDT.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

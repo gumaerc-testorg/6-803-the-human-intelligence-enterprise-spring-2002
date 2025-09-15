@@ -4,6 +4,7 @@ course_id: 6-803-the-human-intelligence-enterprise-spring-2002
 description: ''
 file: null
 file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2002/f46bf232fae416b0daf847098b2afdd0_FELDMAN.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
