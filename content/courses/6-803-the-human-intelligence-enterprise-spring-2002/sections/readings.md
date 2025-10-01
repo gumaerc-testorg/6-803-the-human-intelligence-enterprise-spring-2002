@@ -19,16 +19,16 @@ Course Bibliography
 | 1 | Winston, P. "Why I am Optimistic." |
 | 2 | Turing, A. M. "Computing Machinery and Intelligence." _MIND_ (October 1950). |
 | 3 | Minsky, M. "Steps toward Artificial Intelligence." |
-| 4 | [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262210133) [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0262210134#/ref=nosim/mitopencourse-20) Ullman, S. "Sequence Seeking and Counter Streams." Chapter 10 in _High Level Vision_. Cambridge, MA: MIT Press, 1996, pp. 317-358. ISBN: 9780262210133. |
+| 4 | {{% resource_link "a702dae9-5947-4e7e-80f0-0dc138cb4e6a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} {{% resource_link "669c16c2-3bfd-48f3-8557-ac2474c05252" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Ullman, S. "Sequence Seeking and Counter Streams." Chapter 10 in _High Level Vision_. Cambridge, MA: MIT Press, 1996, pp. 317-358. ISBN: 9780262210133. |
 | 5 | Brooks, R. A. "Intelligence without representation." _Artificial Intelligence_ (1991): 139-159. Elsevier. |
 | 6 | Feldman, J. A., and D. H. Ballard. "Connectionist models and their properties." _Cognitive Science_ (1982): 205- 254. |
 | 7 | Marr, D. "Artificial Intelligence-a personal view." MIT Artificial Intelligence Laboratory Paper, March 1976. |
 | 8 | Minsky, M. "K-lines: A Theory of Memory." MIT Artificial Intelligence Laboratory Paper, June 1979. |
-| 9 | [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262210133) [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0262210134#/ref=nosim/mitopencourse-20) Ullman, S. "Visual Cognition and Visual Routines." Chapter 9 in _High Level Vision_. Cambridge, MA: MIT Press, 1996, 263-315. ISBN: 9780262210133 |
+| 9 | {{% resource_link "a702dae9-5947-4e7e-80f0-0dc138cb4e6a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} {{% resource_link "669c16c2-3bfd-48f3-8557-ac2474c05252" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Ullman, S. "Visual Cognition and Visual Routines." Chapter 9 in _High Level Vision_. Cambridge, MA: MIT Press, 1996, 263-315. ISBN: 9780262210133 |
 | 10 | Rao, S. "Visual Routines and Attention." Ph.D. Thesis, Massachusetts Institute of Technology, February 1998. |
 | 11 | Kirby, S., "Language Evolution without Natural Selection." _Edinburgh Occasional Papers in Linguistics_ (April 1998). |
 | 12 | Borchardt, G. "Causal Reconstruction." MIT Artificial Intelligence Laboratory Memo No. 1403, February 1993. |
-| 13 | [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262100274) [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0262100274#/ref=nosim/mitopencourse-20) Jackendoff, R. "Semantics of Spatial Expressions." Chapter 9 in [_Semantics and Cognition_](https://mitpress.mit.edu/0262100274). Cambridge, MA: MIT Press, 1983. ISBN: 0262100274. |
+| 13 | {{% resource_link "32075fae-2fbf-4479-8842-02a207571936" "![Buy at MIT Press](/images/mp_logo.gif)" %}} {{% resource_link "fb157b64-f02a-41b8-924d-055c038beee8" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Jackendoff, R. "Semantics of Spatial Expressions." Chapter 9 in {{% resource_link "32075fae-2fbf-4479-8842-02a207571936" "_Semantics and Cognition_" %}}. Cambridge, MA: MIT Press, 1983. ISBN: 0262100274. |
 | 14 | Yip, K., and G. J. Sussman. "Sparse Representations for Fast, One-Shot Learning." MIT Artificial Intelligence Laboratory Paper, November 1997. |
 | 15 | Guha, R., and D. Lenat. **"**Enabling Agents to Work Together." _Communications of the ACM_ (July 1994): 127- 142. |
 | 16 | Spelke, E., P. Vishton, and C. Von Hofsten. "Object Perception, Object-directed Action, and Physical Knowledge in Infancy." Chapter 10 in _Neural and Psychological Development_. |
